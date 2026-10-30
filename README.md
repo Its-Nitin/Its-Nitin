@@ -1,86 +1,123 @@
-<div align="center">
 
-# Nitin Kumar
+<!-- Java Full Stack Developer Banner -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1e293b,100:0f766e&text=Java%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=34&fontAlignY=42&desc=Backend%20Engineering%20%7C%20Angular%20%7C%20System%20Design&descAlignY=65&descSize=15"
+    alt="Java Full Stack Developer banner"
+    width="100%"
+  />
+</p>
 
-**Senior Software Engineer & Java Full Stack Developer**  
-Building resilient backend systems, optimizing database throughput, and shipping clean Angular frontends.
+<h1 align="center">Hi, I'm Nitin Kumar 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin_Kumar-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Its--Nitin-161B22?style=flat-square&logo=github&logoColor=E2E8F0)](https://github.com/Its-Nitin)
-[![Email](https://img.shields.io/badge/Email-nitinkumarblb%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:nitinkumarblb@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Gurugram%2C_India-161B22?style=flat-square&logo=google-maps&logoColor=10B981)](#)
+<p align="center">
+  <strong>Java Full Stack Developer</strong>
+  <br />
+  Building reliable backends, modern web applications, and secure APIs.
+</p>
 
----
-
-</div>
-
-### About Me
-
-I am a Full Stack Engineer with **5+ years of experience** architecting enterprise-grade applications. Most of my work sits at the intersection of **high-throughput Spring Boot backends**, **SQL execution plan optimization**, and **responsive Angular (v10–v20) client applications**.
-
-- **Performance-first:** Cut API latencies by **35%** in production by resolving Hibernate N+1 queries, profiling SQL execution plans, and fine-tuning `EntityManager` access patterns.
-- **Enterprise Security:** Implemented centralized Identity & Access Management (IAM) via Keycloak (OAuth2, PKCE, multi-tenant SSO, and custom SPI user providers).
-- **System Evolution:** Led migrations from legacy XML-configured Spring MVC/Servlets to annotation-driven Spring Boot microservices with zero operational regression.
-- **Modern Workflow:** Pragmatic adopter of AI-assisted engineering tools (Cursor, Copilot, Antigravity) to accelerate refactoring, test generation, and deep-dive debugging.
-
----
-
-### What I Work With
-
-#### Backend & Data
-![Java](https://img.shields.io/badge/Java_17+-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=6DB33F)
-![Spring Security](https://img.shields.io/badge/Spring_Security-161B22?style=flat-square&logo=springsecurity&logoColor=6DB33F)
-![Hibernate / JPA](https://img.shields.io/badge/Hibernate_/_JPA-161B22?style=flat-square&logo=hibernate&logoColor=59666C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Oracle](https://img.shields.io/badge/Oracle_DB-161B22?style=flat-square&logo=oracle&logoColor=F80000)
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1)
-
-#### Frontend & Architecture
-![Angular](https://img.shields.io/badge/Angular_(v10--20)-161B22?style=flat-square&logo=angular&logoColor=DD0031)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6)
-![RxJS](https://img.shields.io/badge/RxJS_/_NgRx-161B22?style=flat-square&logo=reactivex&logoColor=B7178C)
-![WebSockets](https://img.shields.io/badge/WebSockets_(STOMP)-161B22?style=flat-square&logo=socketdotio&logoColor=10B981)
-![i18n & RTL](https://img.shields.io/badge/i18n_/_RTL_Support-161B22?style=flat-square&logo=googletranslate&logoColor=10B981)
-
-#### Identity, Tooling & Scheduling
-![Keycloak](https://img.shields.io/badge/Keycloak_(SSO_/_RBAC)-161B22?style=flat-square&logo=redhat&logoColor=EE0000)
-![OAuth2](https://img.shields.io/badge/OAuth2_/_JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=000000)
-![Quartz](https://img.shields.io/badge/Quartz_/_ShedLock-161B22?style=flat-square&logo=apache&logoColor=D22128)
-![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED)
-![Cursor](https://img.shields.io/badge/Cursor_/_Copilot-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<p align="center">
+  <a href="https://github.com/Its-Nitin">
+    <img src="https://img.shields.io/badge/GitHub-Its--Nitin-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Java-Backend%20Engineering-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Backend Engineering" />
+  <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+</p>
 
 ---
 
-### Featured Work
+## About Me
 
-#### [TalkieTime — Real-Time Chat Platform](https://github.com/Its-Nitin)
-> A full-duplex real-time messaging application built with a hybrid REST + WebSocket architecture.
+I'm a software developer who enjoys understanding how systems work, solving challenging technical problems, and writing clean, maintainable code.
 
-- **Stack:** Spring Boot, WebSockets (STOMP), Angular, JWT Authentication.
-- **Highlights:**
-  - Designed low-latency bi-directional messaging with user presence detection and persistent chat history.
-  - Implemented token-based authentication across WebSocket handshakes to secure live channel sessions.
-  - Clean client-side state handling with RxJS observables preventing memory leaks on high-frequency message streams.
+My interests span backend engineering, frontend architecture, application security, database performance, and system design.
 
-#### Enterprise Platform Modernization & Performance Tuning *(Ascent Business Tech)*
-- Re-engineered core reporting and risk modules from legacy Spring MVC XML configs to modern Spring Boot services.
-- Diagnosed query execution plans on Oracle/PostgreSQL and resolved persistent N+1 fetch bottlenecks, yielding a **35% overall reduction in API latency**.
-- Integrated centralized Keycloak authentication with custom user federation SPI for multi-tenant enterprise deployments.
+- 🔧 Building backend services with Java and Spring Boot
+- 🌐 Developing responsive web applications with Angular and TypeScript
+- 🔐 Exploring secure authentication, authorization, and identity management
+- ⚡ Improving application performance and database efficiency
+- 🧠 Continuously learning about system design and software architecture
 
 ---
 
-### GitHub Activity & Metrics
+## Tech Stack
 
-<div align="center">
+### Backend Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=Its-Nitin&show_icons=true&bg_color=0d1117&title_color=10b981&text_color=94a3b8&icon_color=10b981&border_color=30363d&hide_border=false" alt="Nitin's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Nitin&layout=compact&bg_color=0d1117&title_color=10b981&text_color=94a3b8&border_color=30363d&hide_border=false" alt="Nitin's Top Languages" width="48%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java, Spring, Hibernate and Maven" />
+</p>
 
-</div>
+`Java` · `Spring Boot` · `Spring Security` · `REST APIs` · `JPA/Hibernate` · `Microservices`
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap" alt="Angular, TypeScript, JavaScript, HTML, CSS and Bootstrap" />
+</p>
+
+`Angular` · `TypeScript` · `RxJS` · `NgRx` · `Reactive Forms` · `i18n/RTL`
+
+### Database & Data Access
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL" />
+</p>
+
+`PostgreSQL` · `Microsoft SQL Server` · `Oracle` · `SQL Optimization` · `Transactions`
+
+### Security & Identity
+
+`Keycloak` · `OAuth 2.0` · `JWT` · `RBAC` · `Authentication & Authorization`
+
+### Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,idea,vscode,postman" alt="Git, GitHub, GitLab, Docker, IntelliJ IDEA, VS Code and Postman" />
+</p>
+
+`Maven` · `Git` · `Docker` · `Postman` · `AI-assisted Development`
 
 ---
 
-<div align="center">
-<sub>Open to engineering discussions, backend architecture debates, and performance profiling challenges.</sub>
-</div>
+## Areas of Interest
+
+- **Software Architecture:** Layered architecture, modular design, SOLID principles, and clean code.
+- **Performance Engineering:** Query optimization, Hibernate tuning, efficient data access, and profiling.
+- **Java Internals:** Collections, JVM memory, concurrency, multithreading, and exception handling.
+- **Reactive Applications:** Angular change detection, RxJS operators, and state management.
+- **Application Security:** OAuth 2.0, token-based authentication, RBAC, and secure API design.
+- **System Design:** Scalability, caching, distributed systems, and reliability.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Its-Nitin&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+    alt="Nitin's GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Nitin&layout=compact&hide_border=true&theme=transparent"
+    alt="Most-used programming languages"
+    height="165"
+  />
+</p>
+
+---
+
+## Let's Connect
+
+<p>
+  <a href="https://github.com/Its-Nitin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your LinkedIn URL when ready -->
+</p>
+
+<p align="center">
+  <i>Learn continuously. Build thoughtfully. Improve constantly.</i> 🚀
+</p>
