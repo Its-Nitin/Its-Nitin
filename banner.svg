@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Nitin Kumar, Java Full Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B1A"/>
+      <stop offset="0.55" stop-color="#0B1B3A"/>
+      <stop offset="1" stop-color="#0E3B4F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    </pattern>
+    <style>
+      .name { font: 800 64px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; letter-spacing: 1px; }
+      .role { font: 600 24px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: url(#accent); }
+      .tag  { font: 400 16px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #A9B8D4; }
+      .chip { font: 600 13px 'Consolas', 'Courier New', monospace; fill: #CFE8FF; }
+      .term { font: 400 13px 'Consolas', 'Courier New', monospace; fill: #9FB4D6; }
+      .ok   { fill: #4ADE80; }
+      .cy   { fill: #38BDF8; }
+      .pu   { fill: #C4B5FD; }
+      .l1 { animation: show 9s infinite; }
+      .l2 { animation: show 9s infinite 0.6s; }
+      .l3 { animation: show 9s infinite 1.2s; }
+      .l4 { animation: show 9s infinite 1.8s; }
+      .l5 { animation: show 9s infinite 2.4s; }
+      .float1 { animation: f1 11s ease-in-out infinite; }
+      .float2 { animation: f2 13s ease-in-out infinite; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes show { 0%,4% { opacity: 0 } 10%,88% { opacity: 1 } 96%,100% { opacity: 0 } }
+      @keyframes f1 { 0%,100% { transform: translate(0,0) } 50% { transform: translate(40px,25px) } }
+      @keyframes f2 { 0%,100% { transform: translate(0,0) } 50% { transform: translate(-45px,-20px) } }
+      @keyframes blink { 50% { opacity: 0 } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <circle class="float1" cx="220" cy="80" r="190" fill="url(#orb1)"/>
+  <circle class="float2" cx="1000" cy="260" r="220" fill="url(#orb2)"/>
+
+  <!-- Left: identity -->
+  <text class="name" x="60" y="130">NITIN KUMAR</text>
+  <text class="role" x="62" y="175">Java Full Stack Engineer</text>
+  <text class="tag" x="62" y="208">Microservices · Spring Boot · Keycloak · Angular</text>
+
+  <g transform="translate(62,240)">
+    <rect width="124" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text class="chip" x="62" y="20" text-anchor="middle">Microservices</text>
+    <rect x="134" width="104" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text class="chip" x="186" y="20" text-anchor="middle">Spring Boot</text>
+    <rect x="248" width="92" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.5"/>
+    <text class="chip" x="294" y="20" text-anchor="middle">Keycloak</text>
+    <rect x="350" width="84" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.5"/>
+    <text class="chip" x="392" y="20" text-anchor="middle">Angular</text>
+  </g>
+
+  <!-- Right: terminal card -->
+  <g transform="translate(700,60)">
+    <rect width="440" height="200" rx="14" fill="#050914" fill-opacity="0.85" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <circle cx="22" cy="22" r="6" fill="#F87171"/>
+    <circle cx="42" cy="22" r="6" fill="#FBBF24"/>
+    <circle cx="62" cy="22" r="6" fill="#4ADE80"/>
+    <text class="term" x="90" y="27" fill-opacity="0.6">~/nitin/skills</text>
+    <g class="l1"><text class="term" x="22" y="62"><tspan class="cy">$</tspan> nitin --skills</text></g>
+    <g class="l2"><text class="term" x="22" y="88" xml:space="preserve"><tspan class="pu">backend </tspan> Spring Boot · Microservices</text></g>
+    <g class="l3"><text class="term" x="22" y="110" xml:space="preserve"><tspan class="pu">security</tspan> Keycloak · OAuth2 · RBAC</text></g>
+    <g class="l4"><text class="term" x="22" y="132" xml:space="preserve"><tspan class="pu">frontend</tspan> Angular · TypeScript · RxJS</text></g>
+    <g class="l5"><text class="term" x="22" y="154" xml:space="preserve"><tspan class="pu">data    </tspan> Oracle · PostgreSQL · MySQL</text></g>
+    <rect class="cursor" x="22" y="168" width="9" height="16" fill="#38BDF8"/>
+  </g>
+</svg>
