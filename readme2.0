@@ -1,0 +1,210 @@
+<h1 align="center">Nitin Kumar 👋</h1>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Nitin%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Java%20Full%20Stack%20%26%20IAM%20Specialist&descAlignY=62&descSize=20&descAlign=50" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=650&lines=Senior+Software+Engineer+%40+Ascent+Business+Tech;Java+Full+Stack+Developer+(5%2B+Years);Spring+Boot+%26+Angular+Architecture;API+Performance+Optimization+(35%25+Latency+Drop);Keycloak+%7C+OAuth2+%7C+IAM+%26+RBAC+Architect;AI-Augmented+Engineering+Advocate)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitin-kumar-k7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nitinkumarblb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Its-Nitin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Its-Nitin&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+**Nitin Kumar**, a Senior Software Engineer with **5+ years** of hands-on experience building, scaling, and modernizing enterprise software.
+
+I bridge the gap between heavy-lifting backend systems and intuitive frontend interfaces. On the backend, I design distributed services with **Java & Spring Boot**, profile and eliminate database bottlenecks, and build centralized authentication architectures with **Keycloak**. On the frontend, I create modular, reactive web applications with **Angular (v10–v20)**.
+
+#### 🎯 What I Do Best:
+
+- ⚡ **Performance & Database Tuning:** Diagnosing execution plans, wiping out Hibernate N+1 query bottlenecks, and rewriting critical queries in native SQL via `EntityManager`—reducing production API response times by up to **35%**.
+- 🔐 **Identity & Access Management (IAM):** Engineering multi-tenant authentication and authorization systems with **Keycloak**, **OAuth 2.0 / OIDC**, **PKCE**, **MFA**, and fine-grained **RBAC**, including developing custom Keycloak SPI User Storage Providers.
+- 🌐 **Global-Ready Frontend Apps:** Delivering responsive, enterprise-grade Angular apps with reactive state management (**RxJS & NgRx**) and native multilingual support (**i18n & RTL** for Arabic & English).
+- 🔄 **Legacy Monolith Modernization:** Decommissioning technical debt by migrating legacy XML-configured Spring MVC/Servlet monoliths into modular, cloud-ready Spring Boot microservices.
+- ⚙️ **Distributed Reliability:** Preventing race conditions across multi-node environments using distributed background schedulers (**ShedLock** and **Quartz**), accelerating dashboard refreshes by **25%**.
+- 🤖 **Modern Engineering Velocity:** Leveraging AI-assisted coding workflows (**Cursor**, **GitHub Copilot**, **Augment**, **Antigravity**) to rapidly prototype, debug, refactor, and write thorough unit tests while maintaining high engineering rigor.
+
+---
+
+### 🏢 Key Enterprise Impact
+
+| Area | Engineering Accomplishment | Impact Metric |
+| :--- | :--- | :--- |
+| 🚀 **Backend Latency** | Resolved persistent Hibernate N+1 bottlenecks and optimized critical native queries via `EntityManager` | **35% faster** API response times |
+| 🔐 **IAM & Access Control** | Architected Keycloak multi-tenant SSO, custom SPI user provider, MFA, and granular RBAC | Centralized IAM across enterprise apps |
+| 🌐 **Global Accessibility** | Delivered responsive Angular applications supporting dynamic **i18n** and **RTL (Arabic & English)** | Universal web & mobile UX consistency |
+| ⚙️ **Job Automation** | Implemented distributed scheduling architectures using **ShedLock** and **Quartz** | **25% speedup** in dashboard updates |
+| 🏛️ **Legacy Modernization** | Migrated legacy Spring MVC/Servlet configuration to annotation-driven Spring Boot | Eliminated technical debt & XML config |
+
+---
+
+### 🛠️ Technical Stack & Expertise
+
+<table>
+  <tr>
+    <td width="22%" align="right"><b>Backend & Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+      <img src="https://img.shields.io/badge/Microservices-34495E?style=for-the-badge&logo=serverless&logoColor=white" alt="Microservices"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/Hibernate_/_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+      <img src="https://img.shields.io/badge/Hibernate_Envers-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Envers"/>
+      <img src="https://img.shields.io/badge/WebSockets_(STOMP)-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="right"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Angular_(v10--v20)-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/>
+      <img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx"/>
+      <img src="https://img.shields.io/badge/i18n_&_RTL-00A86B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="i18n & RTL"/>
+      <img src="https://img.shields.io/badge/HTML5_&_SCSS-1572B6?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="right"><b>Security & IAM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Keycloak-275A8E?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+      <img src="https://img.shields.io/badge/OAuth_2.0-2C3E50?style=for-the-badge&logo=openid&logoColor=white" alt="OAuth2"/>
+      <img src="https://img.shields.io/badge/PKCE_&_MFA-4B0082?style=for-the-badge&logo=1password&logoColor=white" alt="PKCE & MFA"/>
+      <img src="https://img.shields.io/badge/RBAC-333333?style=for-the-badge&logo=auth0&logoColor=white" alt="RBAC"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="right"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/MSSQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
+      <img src="https://img.shields.io/badge/SQL_Optimization-E65100?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL Optimization"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="right"><b>AI Tools & Workflow</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor"/>
+      <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+      <img src="https://img.shields.io/badge/Augment-7928CA?style=for-the-badge&logo=codecrafters&logoColor=white" alt="Augment"/>
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Projects & Architecture
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/Its-Nitin">TalkieTime</a></h3>
+      <p><b>Real-Time Chat & Collaboration System</b></p>
+      <ul>
+        <li>Hybrid architecture integrating <b>Spring Boot REST APIs</b> with persistent <b>WebSockets (STOMP)</b>.</li>
+        <li>Implemented <b>JWT-based authentication</b> for end-to-end secure communication channels.</li>
+        <li>Features 1-on-1 private messaging, real-time typing indicators, user presence tracking, and chat archiving.</li>
+        <li>Reactive frontend client engineered with <b>Angular & RxJS</b>.</li>
+      </ul>
+      <p>
+        <code>Java</code> • <code>Spring Boot</code> • <code>WebSockets</code> • <code>Angular</code> • <code>JWT</code> • <code>RxJS</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/Its-Nitin">Enterprise IAM & SSO Gateway</a></h3>
+      <p><b>Centralized Identity & Access Management Platform</b></p>
+      <ul>
+        <li>Architected multi-tenant Single Sign-On (SSO) with <b>Keycloak</b> and <b>OAuth 2.0 / OIDC</b>.</li>
+        <li>Engineered custom Keycloak SPI User Storage Provider, optimizing group queries by <b>20%</b>.</li>
+        <li>Hardened authentication flows with <b>PKCE</b>, <b>Multi-Factor Authentication (MFA)</b>, and fine-grained <b>RBAC</b>.</li>
+        <li>Seamless integration across microservices and Angular client applications.</li>
+      </ul>
+      <p>
+        <code>Keycloak</code> • <code>OAuth2</code> • <code>PKCE</code> • <code>Spring Security</code> • <code>Multi-Tenant</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Professional Journey
+
+```text
+Ascent Business Technologies
+├── 🚀 Senior Software Engineer                                  [Jul 2024 — Present]
+│   ├── Spearheaded backend latency optimization (35% reduction via query & cache tuning)
+│   ├── Implemented enterprise Keycloak authentication (MFA, PKCE, multi-tenant RBAC)
+│   ├── Audited & optimized high-throughput transactions using Hibernate Envers & Native SQL
+│   └── Championed AI-assisted software delivery workflows (Cursor, Copilot, Antigravity)
+│
+├── ⚙️ Software Engineer II                                       [Sep 2023 — Jul 2024]
+│   ├── Delivered multilingual Angular apps with i18n & RTL (Arabic/English) support
+│   ├── Accelerated UI responsiveness by 30% through NgRx and RxJS reactive state models
+│   ├── Engineered distributed background scheduling with ShedLock & Quartz (+25% dashboard refresh)
+│   └── Built custom Keycloak SPI provider for high-flexibility user/group data federation
+│
+└── 🧱 Software Engineer I                                       [Jul 2021 — Jul 2023]
+    ├── Migrated legacy Spring MVC/Servlet monolith with XML configs to Spring Boot
+    ├── Developed secure REST APIs and JPA service layers for risk & reporting modules
+    └── Modernized architecture with annotation-driven configurations and centralized IAM
+```
+
+---
+
+### 🎓 Education
+
+- 🎓 **Bachelor of Technology (B.Tech)** in Computer Science and Engineering — *MDU University Rohtak, Haryana* (2024)
+- 📜 **Diploma in Engineering** in Computer Science and Engineering — *Govt. Polytechnic Sonipat, Haryana* (2019)
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <a href="https://github.com/Its-Nitin">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Its-Nitin&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Nitin's Activity Graph" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <a href="https://github.com/Its-Nitin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Nitin&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Nitin's Streak" />
+  </a>
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always excited to connect with fellow engineers, tech leaders, and recruiters to discuss distributed systems, backend performance, modern reactive frontends, or AI engineering workflows.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kumar-k7/)
+[![Email](https://img.shields.io/badge/Email-nitinkumarblb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitinkumarblb@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Its--Nitin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Its-Nitin)
+[![Location](https://img.shields.io/badge/Location-Gurugram%2C_India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Gurugram,Haryana,India)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⚡ Engineered with passion for scalability, precision, and performance • © <b>Nitin Kumar</b></sub>
+</div>
