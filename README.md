@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/banner.svg" alt="Nitin Kumar: Java Full Stack Engineer"/>
+  <img width="100%" src="./banner.svg" alt="Nitin Kumar: Java Full Stack Engineer"/>
 </p>
 
 <p align="center">
